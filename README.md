@@ -1,6 +1,6 @@
 # 📝 Ejercicios de Costos y Presupuestos
 
-Resolución de 10 ejercicios de Punto de equilibro de Costos y presupuestos.
+Resolución de 10 ejercicios de Punto de equilibro de costos y presupuestos.
 
 ### Funcionalidad:
 
